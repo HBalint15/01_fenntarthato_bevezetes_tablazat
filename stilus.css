@@ -5,5 +5,10 @@ body {
     font-family: "Segoe UI";
 }
 h2 {
-    font-size: 2rem;
+    font-size: 1.5rem;
+    color: #145c4e;
+}
+table, td, th {
+    border: 1px solid #58716a;
+    border-collapse: collapse;
 }
