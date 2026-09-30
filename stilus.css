@@ -44,5 +44,6 @@ td, th {
 footer {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 35%;
+    gap: 50%;
+    font-size: 0.8rem;
 }
