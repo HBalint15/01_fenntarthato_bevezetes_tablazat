@@ -12,3 +12,34 @@ table, tr {
     border: 1px solid #58716a;
     border-collapse: collapse;
 }
+#oszlop-cimek th{
+    background-color: #145c4e;
+    color: white;
+    padding: 10px;
+    font-size: 0.7rem;
+    text-align: left;
+}
+.szeles {
+    text-align: left;
+    font-size: 1rem;
+    font-weight: lighter;
+}
+.bal-cim {
+    font-size: 0.8rem;
+    color: #145c4e;
+}
+.bal-cim span {
+    font-size: 0.6rem;
+    text-transform: capitalize;
+}
+.last-cell {
+    border-left: 1px solid #c8e67a;
+}
+td, th {
+    padding: 5px;
+}
+footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 35%;
+}
