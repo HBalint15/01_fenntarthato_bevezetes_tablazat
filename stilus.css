@@ -3,6 +3,7 @@
 }
 body {
     font-family: "Segoe UI";
+    background-color: #dce6db;
 }
 h2 {
     font-size: 1.5rem;
@@ -46,4 +47,8 @@ footer {
     grid-template-columns: 1fr 1fr;
     gap: 50%;
     font-size: 0.8rem;
+}
+table {
+    width: 80%;
+    margin: auto;
 }
